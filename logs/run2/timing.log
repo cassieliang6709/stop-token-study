@@ -1,0 +1,5 @@
+[08:34:41] filter 559s rc=0
+[08:38:16] sft2_A_lora 215s rc=0
+[08:41:57] sft2_B_lora 221s rc=0
+[08:45:47] sft2_B_lora_embed 230s rc=0
+[09:03:09] probe2 1042s rc=0

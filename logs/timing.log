@@ -1,0 +1,5 @@
+[02:59:08] pretrain 6695s rc=0
+[03:02:50] sft_A_lora 222s rc=0
+[03:06:32] sft_B_lora 222s rc=0
+[03:10:20] sft_B_lora_embed 228s rc=0
+[03:46:38] probe 2178s rc=0

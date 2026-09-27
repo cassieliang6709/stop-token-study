@@ -1,0 +1,2 @@
+run 1: 49096/100000 training conversations exceeded 340 tokens (end token truncated)
+run 2: kept 100000 conversations <= 300 tokens

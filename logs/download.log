@@ -1,0 +1,6 @@
+[90mHint: A new version of huggingface_hub (2.0.0) is available! You are using version 1.32.0.
+To update, run: hf update[0m
+[90mHint: The `hf-cli` skill is not installed. Run `hf skills add -g --claude` to teach your AI agents how to use the `hf` CLI.[0m
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [02:29<02:29, 149.56s/it]Fetching 2 files: 100%|██████████| 2/2 [02:32<00:00, 63.45s/it] Fetching 2 files: 100%|██████████| 2/2 [02:32<00:00, 76.37s/it]
+[32m✓ Downloaded[0m
+  path: /root/autodl-tmp/stop-token-study/data
