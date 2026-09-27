@@ -1,5 +1,7 @@
 # Does a chat model stop if its end token never appeared in pretraining?
 
+Write-up: [writeup.md](writeup.md) (also on [liangyue.site](https://liangyue.site/en/#reading)).
+
 On Qwen2.5-0.5B, plain LoRA SFT produced a model that almost never stopped: its `<|im_end|>` row
 was never trained in the base model, and LoRA cannot update embeddings or the LM head
 ([ai-infra-gsm8k](https://github.com/cassieliang6709/ai-infra-gsm8k)). That result is
